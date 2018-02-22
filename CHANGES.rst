@@ -2,8 +2,8 @@
  Changes
 =========
 
-5.0 (unreleased)
-================
+5.0+md.1 (2018-02-22)
+=====================
 
 - Backwards incompatible change: Remove ``zope.publisher.tests.httprequest``.
   It is not used inside this package and was never ported to Python 3.
